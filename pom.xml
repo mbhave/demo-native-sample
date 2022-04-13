@@ -15,7 +15,7 @@
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>17</java.version>
-		<main.class>com.example.demonativesample.DemoNativeSampleApplication</main.class>
+		<main.class>org.springframework.boot.AotSpringApplicationConfigurer</main.class>
 		<spring-framework.version>6.0.0-SNAPSHOT</spring-framework.version>
 	</properties>
 	<dependencies>
